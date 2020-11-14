@@ -3,7 +3,7 @@
 I've chosen to solve the first version of the environment (single agent). To do so, I've used the off-policy DDPG algorithm. The task is episodic,
 and in order to solve the environment, the agent must get an average score of +30 over 100 consecutive episodes.
 
-![robot](https://raw.githubusercontent.com/smalvar/CONTINUOUS_CONTROL-Deep-Reinforcement-Learning/main/robots.gif?token=AJJPPPKHYL254WH6HOH6JSK7VQ3DS)
+![robot](https://raw.githubusercontent.com/smalvar/CONTINUOUS_CONTROL-Deep-Reinforcement-Learning/main/robots.gif?token=AJJPPPI7MD7UQTUVE6JXX6K7V4PPQ)
 ## Method: Deep Deterministic Policy Gradient (DDPG)
 I've implemented an off-policy method called Deep Deterministic Policy Gradient and described in the paper ![Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971).
 Basically, the algorithm learns a Q-function using Bellman equation and off-policy data. After data, the Q-function is used to learn the policy.
