@@ -62,4 +62,4 @@ The result is shown in the figure. The environment is solved in 466 episodes, av
 ## References
 - Udacity's ![model.py](https://github.com/udacity/deep-reinforcement-learning/blob/master/finance/model.py) from `finance/model.py`
 - Udacity's ![model.py](https://github.com/udacity/deep-reinforcement-learning/blob/master/ddpg-bipedal/model.py) `from ddpg-bipedal/model.py`
-- 
+
